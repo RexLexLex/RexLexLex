@@ -6,6 +6,8 @@
 
 Hello I'm glad that you are looking into my work. i'll be sure to publish soon.
 
+In here you will also see a few videos of short apps and gammes I've been creating
+
 <!---
 RexLexLex/RexLexLex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
