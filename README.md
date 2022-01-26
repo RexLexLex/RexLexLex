@@ -6,7 +6,7 @@
 
 Hello I'm glad that you are looking into my work. i'll be sure to publish soon.
 
-In here you will also see a few videos of short apps and gammes I've been creating
+In the RexLexLex repository, you will also see a few videos of short apps and games I've been creating.
 
 <!---
 RexLexLex/RexLexLex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
